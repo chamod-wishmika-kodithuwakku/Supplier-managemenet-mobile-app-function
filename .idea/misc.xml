@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/Desktop/supplier management/app/src/main/res/layout/activity_addnotes.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/supplier management/app/src/main/res/layout/activity_login.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/supplier management/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/supplier management/app/src/main/res/layout/activity_main2.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/supplier management/app/src/main/res/layout/activity_spdashboard.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/supplier management/app/src/main/res/layout/activity_splash.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/supplier management/app/src/main/res/layout/activity_supplier_management_dashboard.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/supplier management/app/src/main/res/layout/activity_supplier_manager_login.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/supplier management/app/src/main/res/layout/add_newtask.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/supplier management/app/src/main/res/layout/task_layout.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/to-do-list-using-sqlite-master/app/src/main/res/drawable/custom_input.xml" value="0.2405" />
+        <entry key="..\:/Users/DELL/Desktop/to-do-list-using-sqlite-master/app/src/main/res/layout/activity_addnotes.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/Desktop/to-do-list-using-sqlite-master/app/src/main/res/layout/activity_first_page.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/DELL/Desktop/to-do-list-using-sqlite-master/app/src/main/res/layout/activity_home.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/to-do-list-using-sqlite-master/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Desktop/to-do-list-using-sqlite-master/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/DELL/Desktop/to-do-list-using-sqlite-master/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/Desktop/to-do-list-using-sqlite-master/app/src/main/res/layout/activity_spdashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/Desktop/to-do-list-using-sqlite-master/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/Desktop/to-do-list-using-sqlite-master/app/src/main/res/layout/activity_supplier_manager_login.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Desktop/to-do-list-using-sqlite-master/app/src/main/res/layout/add_newtask.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Desktop/to-do-list-using-sqlite-master/app/src/main/res/layout/task_layout.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.16" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
